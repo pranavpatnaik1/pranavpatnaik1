@@ -3,6 +3,7 @@
 * curr. building mathema & haruki (~$50k in funding)
 ---
 <p align="center">
+  <h3>connect:</h3>
   <a href="https://instagram.com/pranavpatnaik_">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" style="border: none;">
   </a>
