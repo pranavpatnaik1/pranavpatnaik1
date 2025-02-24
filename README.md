@@ -2,7 +2,7 @@
 * founder @ vanakian research
 * curr. building mathema & haruki (~$50k in funding)
 ---
-<p align="center">connect:</p>
+<h3 align="center">connect</h3>
 <p align="center">
   <a href="https://instagram.com/pranavpatnaik_">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" style="border: none;">
