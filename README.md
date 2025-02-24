@@ -2,3 +2,4 @@
 * founder @ vanakian research
 * curr. building mathema & haruki (~$50k in funding)
 ---
+* say hi @ instagram, twitter, linkedin
