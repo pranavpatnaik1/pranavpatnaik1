@@ -1,6 +1,6 @@
 # pranav patnaik
 * founder @ vanakian research
-* curr. building mathema & haruki (~$50k in funding)
+* curr. building mathema & haruki (~$80k in funding)
 ---
 <p align="center">
   <a href="https://instagram.com/pranavpatnaik_" target="_blank" rel="noopener noreferrer">
