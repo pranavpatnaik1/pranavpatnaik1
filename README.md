@@ -1,5 +1,5 @@
 # pranav patnaik
-* founder @ vanakian research
+* founder @ vanakian
 * curr. building mathema & haruki (~$80k in funding)
 ---
 <p align="center">
